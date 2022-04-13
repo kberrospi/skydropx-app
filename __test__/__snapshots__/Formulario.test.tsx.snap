@@ -1,0 +1,586 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test en formulario Debe mostrarse correctamente el formulario 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <form
+        class="form"
+      >
+        <h4
+          class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css title-sections"
+        >
+           Datos de envío:  
+        </h4>
+        <div
+          class="nextui-c-kRHeuF nextui-c-kRHeuF-igNCIse-css nextui-grid-item section-shipping"
+        >
+          <div
+            class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+            data-state="normal"
+          >
+            <label
+              class="nextui-c-hzQjrs nextui-input-block-label"
+              for="react-aria2142383709-1"
+              id="react-aria2142383709-2"
+            >
+              Origen:
+            </label>
+            <div
+              class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input input"
+            >
+              <div
+                class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+              >
+                <input
+                  aria-labelledby="react-aria2142383709-2"
+                  aria-multiline="false"
+                  aria-placeholder="Codigo postal Origen"
+                  aria-readonly="false"
+                  aria-required="false"
+                  autocomplete="off"
+                  class="nextui-c-jeuecp nextui-input"
+                  data-state="normal"
+                  id="react-aria2142383709-1"
+                  name="from"
+                  placeholder="Codigo postal Origen"
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="nextui-c-gJvMas nextui-input-helper-text-container"
+            />
+          </div>
+          <div
+            class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+            data-state="normal"
+          >
+            <label
+              class="nextui-c-hzQjrs nextui-input-block-label"
+              for="react-aria2142383709-3"
+              id="react-aria2142383709-4"
+            >
+              Destino:
+            </label>
+            <div
+              class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input input"
+            >
+              <div
+                class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+              >
+                <input
+                  aria-labelledby="react-aria2142383709-4"
+                  aria-multiline="false"
+                  aria-placeholder="Código postal Destino"
+                  aria-readonly="false"
+                  aria-required="false"
+                  autocomplete="off"
+                  class="nextui-c-jeuecp nextui-input"
+                  data-state="normal"
+                  id="react-aria2142383709-3"
+                  name="to"
+                  placeholder="Código postal Destino"
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="nextui-c-gJvMas nextui-input-helper-text-container"
+            />
+          </div>
+        </div>
+        <h4
+          class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css title-sections"
+        >
+           Dimensiones del paquete: 
+        </h4>
+        <div
+          class="nextui-c-kRHeuF nextui-c-kRHeuF-igNCIse-css nextui-grid-item section-package"
+        >
+          <div
+            class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+            data-state="normal"
+          >
+            <label
+              class="nextui-c-hzQjrs nextui-input-block-label"
+              for="react-aria2142383709-5"
+              id="react-aria2142383709-6"
+            >
+              Largo
+            </label>
+            <div
+              class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input input-container"
+            >
+              <div
+                class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+              >
+                <input
+                  aria-labelledby="react-aria2142383709-6"
+                  aria-multiline="false"
+                  aria-placeholder="Largo(CM)"
+                  aria-readonly="false"
+                  aria-required="false"
+                  autocomplete="off"
+                  class="nextui-c-jeuecp nextui-input"
+                  data-state="normal"
+                  id="react-aria2142383709-5"
+                  name="length"
+                  placeholder="Largo(CM)"
+                  type="number"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="nextui-c-gJvMas nextui-input-helper-text-container"
+            />
+          </div>
+          <div
+            class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+            data-state="normal"
+          >
+            <label
+              class="nextui-c-hzQjrs nextui-input-block-label"
+              for="react-aria2142383709-7"
+              id="react-aria2142383709-8"
+            >
+              Ancho
+            </label>
+            <div
+              class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+            >
+              <div
+                class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+              >
+                <input
+                  aria-labelledby="react-aria2142383709-8"
+                  aria-multiline="false"
+                  aria-placeholder="Ancho(CM)"
+                  aria-readonly="false"
+                  aria-required="false"
+                  autocomplete="off"
+                  class="nextui-c-jeuecp nextui-input"
+                  data-state="normal"
+                  id="react-aria2142383709-7"
+                  name="width"
+                  placeholder="Ancho(CM)"
+                  type="number"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="nextui-c-gJvMas nextui-input-helper-text-container"
+            />
+          </div>
+          <div
+            class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+            data-state="normal"
+          >
+            <label
+              class="nextui-c-hzQjrs nextui-input-block-label"
+              for="react-aria2142383709-9"
+              id="react-aria2142383709-10"
+            >
+              Alto
+            </label>
+            <div
+              class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+            >
+              <div
+                class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+              >
+                <input
+                  aria-labelledby="react-aria2142383709-10"
+                  aria-multiline="false"
+                  aria-placeholder="Alto(CM)"
+                  aria-readonly="false"
+                  aria-required="false"
+                  autocomplete="off"
+                  class="nextui-c-jeuecp nextui-input"
+                  data-state="normal"
+                  id="react-aria2142383709-9"
+                  name="height"
+                  placeholder="Alto(CM)"
+                  type="number"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="nextui-c-gJvMas nextui-input-helper-text-container"
+            />
+          </div>
+          <div
+            class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+            data-state="normal"
+          >
+            <label
+              class="nextui-c-hzQjrs nextui-input-block-label"
+              for="react-aria2142383709-11"
+              id="react-aria2142383709-12"
+            >
+              Peso
+            </label>
+            <div
+              class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+            >
+              <div
+                class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+              >
+                <input
+                  aria-labelledby="react-aria2142383709-12"
+                  aria-multiline="false"
+                  aria-placeholder="Peso(KG)"
+                  aria-readonly="false"
+                  aria-required="false"
+                  autocomplete="off"
+                  class="nextui-c-jeuecp nextui-input"
+                  data-state="normal"
+                  id="react-aria2142383709-11"
+                  name="weight"
+                  placeholder="Peso(KG)"
+                  type="number"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="nextui-c-gJvMas nextui-input-helper-text-container"
+            />
+          </div>
+        </div>
+        <button
+          class="nextui-c-kZXRhs nextui-c-PJLV nextui-c-kZXRhs-ikltse-color-default nextui-c-kZXRhs-bWGFbV-size-md nextui-c-kZXRhs-cwXrJp-borderWeight-normal nextui-c-kZXRhs-fzQovo-shadow-true nextui-c-kZXRhs-exaRme-auto-true nextui-c-kZXRhs-gglxka-cv nextui-c-kZXRhs-jsIPTU-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-kZXRhs-iPJLV-css nextui-button nextui-button--ready button"
+          data-state="ready"
+          type="submit"
+        >
+          <span
+            class="nextui-button-text"
+          >
+            Continuar
+          </span>
+        </button>
+      </form>
+    </div>
+  </body>,
+  "container": <div>
+    <form
+      class="form"
+    >
+      <h4
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css title-sections"
+      >
+         Datos de envío:  
+      </h4>
+      <div
+        class="nextui-c-kRHeuF nextui-c-kRHeuF-igNCIse-css nextui-grid-item section-shipping"
+      >
+        <div
+          class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <label
+            class="nextui-c-hzQjrs nextui-input-block-label"
+            for="react-aria2142383709-1"
+            id="react-aria2142383709-2"
+          >
+            Origen:
+          </label>
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input input"
+          >
+            <div
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+            >
+              <input
+                aria-labelledby="react-aria2142383709-2"
+                aria-multiline="false"
+                aria-placeholder="Codigo postal Origen"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-input"
+                data-state="normal"
+                id="react-aria2142383709-1"
+                name="from"
+                placeholder="Codigo postal Origen"
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+        <div
+          class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <label
+            class="nextui-c-hzQjrs nextui-input-block-label"
+            for="react-aria2142383709-3"
+            id="react-aria2142383709-4"
+          >
+            Destino:
+          </label>
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input input"
+          >
+            <div
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+            >
+              <input
+                aria-labelledby="react-aria2142383709-4"
+                aria-multiline="false"
+                aria-placeholder="Código postal Destino"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-input"
+                data-state="normal"
+                id="react-aria2142383709-3"
+                name="to"
+                placeholder="Código postal Destino"
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+      </div>
+      <h4
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css title-sections"
+      >
+         Dimensiones del paquete: 
+      </h4>
+      <div
+        class="nextui-c-kRHeuF nextui-c-kRHeuF-igNCIse-css nextui-grid-item section-package"
+      >
+        <div
+          class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <label
+            class="nextui-c-hzQjrs nextui-input-block-label"
+            for="react-aria2142383709-5"
+            id="react-aria2142383709-6"
+          >
+            Largo
+          </label>
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input input-container"
+          >
+            <div
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+            >
+              <input
+                aria-labelledby="react-aria2142383709-6"
+                aria-multiline="false"
+                aria-placeholder="Largo(CM)"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-input"
+                data-state="normal"
+                id="react-aria2142383709-5"
+                name="length"
+                placeholder="Largo(CM)"
+                type="number"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+        <div
+          class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <label
+            class="nextui-c-hzQjrs nextui-input-block-label"
+            for="react-aria2142383709-7"
+            id="react-aria2142383709-8"
+          >
+            Ancho
+          </label>
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+          >
+            <div
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+            >
+              <input
+                aria-labelledby="react-aria2142383709-8"
+                aria-multiline="false"
+                aria-placeholder="Ancho(CM)"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-input"
+                data-state="normal"
+                id="react-aria2142383709-7"
+                name="width"
+                placeholder="Ancho(CM)"
+                type="number"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+        <div
+          class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <label
+            class="nextui-c-hzQjrs nextui-input-block-label"
+            for="react-aria2142383709-9"
+            id="react-aria2142383709-10"
+          >
+            Alto
+          </label>
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+          >
+            <div
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+            >
+              <input
+                aria-labelledby="react-aria2142383709-10"
+                aria-multiline="false"
+                aria-placeholder="Alto(CM)"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-input"
+                data-state="normal"
+                id="react-aria2142383709-9"
+                name="height"
+                placeholder="Alto(CM)"
+                type="number"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+        <div
+          class="nextui-c-ioOuFC nextui-c-ioOuFC-jTfqsF-helperColor-default nextui-c-ioOuFC-dpkacN-borderWeight-normal nextui-c-ioOuFC-kllHxD-size-md nextui-c-ioOuFC-iiIdOsz-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <label
+            class="nextui-c-hzQjrs nextui-input-block-label"
+            for="react-aria2142383709-11"
+            id="react-aria2142383709-12"
+          >
+            Peso
+          </label>
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+          >
+            <div
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--shadow"
+            >
+              <input
+                aria-labelledby="react-aria2142383709-12"
+                aria-multiline="false"
+                aria-placeholder="Peso(KG)"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-input"
+                data-state="normal"
+                id="react-aria2142383709-11"
+                name="weight"
+                placeholder="Peso(KG)"
+                type="number"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+      </div>
+      <button
+        class="nextui-c-kZXRhs nextui-c-PJLV nextui-c-kZXRhs-ikltse-color-default nextui-c-kZXRhs-bWGFbV-size-md nextui-c-kZXRhs-cwXrJp-borderWeight-normal nextui-c-kZXRhs-fzQovo-shadow-true nextui-c-kZXRhs-exaRme-auto-true nextui-c-kZXRhs-gglxka-cv nextui-c-kZXRhs-jsIPTU-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-kZXRhs-iPJLV-css nextui-button nextui-button--ready button"
+        data-state="ready"
+        type="submit"
+      >
+        <span
+          class="nextui-button-text"
+        >
+          Continuar
+        </span>
+      </button>
+    </form>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

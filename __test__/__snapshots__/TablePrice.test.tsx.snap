@@ -1,0 +1,702 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en TablePrice Debe renderiza la tabla correctamente 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="nextui-c-kRHeuF nextui-c-kRHeuF-igNCIse-css nextui-grid-item container"
+      >
+        <h5
+          class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css title-table"
+        >
+          Elije el servicio de paqueteria que prefieras:
+        </h5>
+        <div
+          class="nextui-c-hSfoSF nextui-c-hSfoSF-gikTHb-shadow-true nextui-c-hSfoSF-bzEnZV-borderWeight-normal nextui-c-hSfoSF-iPJLV-css nextui-table-container"
+        >
+          <table
+            aria-describedby=""
+            aria-label="tablePrice"
+            class="nextui-c-hLONex nextui-c-hLONex-dicOIe-color-primary nextui-c-hLONex-fPgLZC-lineWeight-light nextui-c-hLONex-dRJGNh-hoverable-true table"
+            id="react-aria2107865249-2"
+            role="grid"
+            tabindex="0"
+          >
+            <thead
+              class="nextui-c-PJLV nextui-table-row-group"
+              role="rowgroup"
+            >
+              <tr
+                class="nextui-c-fRbcxI nextui-table-header-row"
+                role="row"
+              >
+                <th
+                  class="nextui-c-gkciFS nextui-c-PJLV nextui-c-gkciFS-gjdJOs-align-center nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-column-header"
+                  data-key=".0.0"
+                  id="react-aria2107865249-2-.0.0"
+                  role="columnheader"
+                  tabindex="-1"
+                >
+                   Compañia 
+                </th>
+                <th
+                  class="nextui-c-gkciFS nextui-c-PJLV nextui-c-gkciFS-gjdJOs-align-center nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-column-header"
+                  data-key=".0.1"
+                  id="react-aria2107865249-2-.0.1"
+                  role="columnheader"
+                  tabindex="-1"
+                >
+                   Llega en 
+                </th>
+                <th
+                  class="nextui-c-gkciFS nextui-c-PJLV nextui-c-gkciFS-gjdJOs-align-center nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-column-header"
+                  data-key=".0.2"
+                  id="react-aria2107865249-2-.0.2"
+                  role="columnheader"
+                  tabindex="-1"
+                >
+                   Precio 
+                </th>
+              </tr>
+              <tr
+                aria-hidden="true"
+                class="nextui-c-gNVTSf nextui-c-gNVTSf-hakyQ-inline-false nextui-c-gNVTSf-icCJVMZ-css nextui-table-hidden-row"
+              />
+            </thead>
+            <tbody
+              class="nextui-c-PJLV nextui-c-PJLV-iccTTUn-css nextui-table-body"
+              role="rowgroup"
+            >
+              <tr
+                aria-hidden="false"
+                aria-labelledby="react-aria2107865249-2-376092-.0.0"
+                aria-selected="false"
+                class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+                data-key="376092"
+                role="row"
+                tabindex="-1"
+              >
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376092.0"
+                  id="react-aria2107865249-2-376092-.0.0"
+                  role="rowheader"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    FEDEX
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376092.1"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    5
+                     días
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                  data-key="376092.2"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <b
+                    class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                  >
+                    155.0 (MXN) 
+                  </b>
+                </td>
+              </tr>
+              <tr
+                aria-hidden="false"
+                aria-labelledby="react-aria2107865249-2-376093-.0.0"
+                aria-selected="false"
+                class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+                data-key="376093"
+                role="row"
+                tabindex="-1"
+              >
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376093.0"
+                  id="react-aria2107865249-2-376093-.0.0"
+                  role="rowheader"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    FEDEX
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376093.1"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    2
+                     días
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                  data-key="376093.2"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <b
+                    class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                  >
+                    191.0 (MXN) 
+                  </b>
+                </td>
+              </tr>
+              <tr
+                aria-hidden="false"
+                aria-labelledby="react-aria2107865249-2-376096-.0.0"
+                aria-selected="false"
+                class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+                data-key="376096"
+                role="row"
+                tabindex="-1"
+              >
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376096.0"
+                  id="react-aria2107865249-2-376096-.0.0"
+                  role="rowheader"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    REDPACK
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376096.1"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    5
+                     días
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                  data-key="376096.2"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <b
+                    class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                  >
+                    234.52 (MXN) 
+                  </b>
+                </td>
+              </tr>
+              <tr
+                aria-hidden="false"
+                aria-labelledby="react-aria2107865249-2-376097-.0.0"
+                aria-selected="false"
+                class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+                data-key="376097"
+                role="row"
+                tabindex="-1"
+              >
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376097.0"
+                  id="react-aria2107865249-2-376097-.0.0"
+                  role="rowheader"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    REDPACK
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376097.1"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    2
+                     días
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                  data-key="376097.2"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <b
+                    class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                  >
+                    319.36 (MXN) 
+                  </b>
+                </td>
+              </tr>
+              <tr
+                aria-hidden="false"
+                aria-labelledby="react-aria2107865249-2-376100-.0.0"
+                aria-selected="false"
+                class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+                data-key="376100"
+                role="row"
+                tabindex="-1"
+              >
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376100.0"
+                  id="react-aria2107865249-2-376100-.0.0"
+                  role="rowheader"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    CARSSA
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                  data-key="376100.1"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                  >
+                    10
+                     días
+                  </p>
+                </td>
+                <td
+                  class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                  data-key="376100.2"
+                  role="gridcell"
+                  tabindex="-1"
+                >
+                  <b
+                    class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                  >
+                    130.0 (MXN) 
+                  </b>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <button
+          class="nextui-c-kZXRhs nextui-c-PJLV nextui-c-kZXRhs-ikltse-color-default nextui-c-kZXRhs-bWGFbV-size-md nextui-c-kZXRhs-cwXrJp-borderWeight-normal nextui-c-kZXRhs-fzQovo-shadow-true nextui-c-kZXRhs-jsIPTU-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-kZXRhs-ihihFAR-css nextui-button nextui-button--ready button"
+          data-state="ready"
+          type="button"
+        >
+          <span
+            class="nextui-button-text"
+          >
+            Enviar
+          </span>
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="nextui-c-kRHeuF nextui-c-kRHeuF-igNCIse-css nextui-grid-item container"
+    >
+      <h5
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css title-table"
+      >
+        Elije el servicio de paqueteria que prefieras:
+      </h5>
+      <div
+        class="nextui-c-hSfoSF nextui-c-hSfoSF-gikTHb-shadow-true nextui-c-hSfoSF-bzEnZV-borderWeight-normal nextui-c-hSfoSF-iPJLV-css nextui-table-container"
+      >
+        <table
+          aria-describedby=""
+          aria-label="tablePrice"
+          class="nextui-c-hLONex nextui-c-hLONex-dicOIe-color-primary nextui-c-hLONex-fPgLZC-lineWeight-light nextui-c-hLONex-dRJGNh-hoverable-true table"
+          id="react-aria2107865249-2"
+          role="grid"
+          tabindex="0"
+        >
+          <thead
+            class="nextui-c-PJLV nextui-table-row-group"
+            role="rowgroup"
+          >
+            <tr
+              class="nextui-c-fRbcxI nextui-table-header-row"
+              role="row"
+            >
+              <th
+                class="nextui-c-gkciFS nextui-c-PJLV nextui-c-gkciFS-gjdJOs-align-center nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-column-header"
+                data-key=".0.0"
+                id="react-aria2107865249-2-.0.0"
+                role="columnheader"
+                tabindex="-1"
+              >
+                 Compañia 
+              </th>
+              <th
+                class="nextui-c-gkciFS nextui-c-PJLV nextui-c-gkciFS-gjdJOs-align-center nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-column-header"
+                data-key=".0.1"
+                id="react-aria2107865249-2-.0.1"
+                role="columnheader"
+                tabindex="-1"
+              >
+                 Llega en 
+              </th>
+              <th
+                class="nextui-c-gkciFS nextui-c-PJLV nextui-c-gkciFS-gjdJOs-align-center nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-column-header"
+                data-key=".0.2"
+                id="react-aria2107865249-2-.0.2"
+                role="columnheader"
+                tabindex="-1"
+              >
+                 Precio 
+              </th>
+            </tr>
+            <tr
+              aria-hidden="true"
+              class="nextui-c-gNVTSf nextui-c-gNVTSf-hakyQ-inline-false nextui-c-gNVTSf-icCJVMZ-css nextui-table-hidden-row"
+            />
+          </thead>
+          <tbody
+            class="nextui-c-PJLV nextui-c-PJLV-iccTTUn-css nextui-table-body"
+            role="rowgroup"
+          >
+            <tr
+              aria-hidden="false"
+              aria-labelledby="react-aria2107865249-2-376092-.0.0"
+              aria-selected="false"
+              class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+              data-key="376092"
+              role="row"
+              tabindex="-1"
+            >
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376092.0"
+                id="react-aria2107865249-2-376092-.0.0"
+                role="rowheader"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  FEDEX
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376092.1"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  5
+                   días
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                data-key="376092.2"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <b
+                  class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                >
+                  155.0 (MXN) 
+                </b>
+              </td>
+            </tr>
+            <tr
+              aria-hidden="false"
+              aria-labelledby="react-aria2107865249-2-376093-.0.0"
+              aria-selected="false"
+              class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+              data-key="376093"
+              role="row"
+              tabindex="-1"
+            >
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376093.0"
+                id="react-aria2107865249-2-376093-.0.0"
+                role="rowheader"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  FEDEX
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376093.1"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  2
+                   días
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                data-key="376093.2"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <b
+                  class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                >
+                  191.0 (MXN) 
+                </b>
+              </td>
+            </tr>
+            <tr
+              aria-hidden="false"
+              aria-labelledby="react-aria2107865249-2-376096-.0.0"
+              aria-selected="false"
+              class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+              data-key="376096"
+              role="row"
+              tabindex="-1"
+            >
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376096.0"
+                id="react-aria2107865249-2-376096-.0.0"
+                role="rowheader"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  REDPACK
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376096.1"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  5
+                   días
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                data-key="376096.2"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <b
+                  class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                >
+                  234.52 (MXN) 
+                </b>
+              </td>
+            </tr>
+            <tr
+              aria-hidden="false"
+              aria-labelledby="react-aria2107865249-2-376097-.0.0"
+              aria-selected="false"
+              class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+              data-key="376097"
+              role="row"
+              tabindex="-1"
+            >
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376097.0"
+                id="react-aria2107865249-2-376097-.0.0"
+                role="rowheader"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  REDPACK
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376097.1"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  2
+                   días
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                data-key="376097.2"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <b
+                  class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                >
+                  319.36 (MXN) 
+                </b>
+              </td>
+            </tr>
+            <tr
+              aria-hidden="false"
+              aria-labelledby="react-aria2107865249-2-376100-.0.0"
+              aria-selected="false"
+              class="nextui-c-bUbfzy nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-table-row"
+              data-key="376100"
+              role="row"
+              tabindex="-1"
+            >
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376100.0"
+                id="react-aria2107865249-2-376100-.0.0"
+                role="rowheader"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  CARSSA
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-igjdJOs-css nextui-table-cell"
+                data-key="376100.1"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <p
+                  class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css text"
+                >
+                  10
+                   días
+                </p>
+              </td>
+              <td
+                class="nextui-c-PJLV nextui-c-eXPDRa nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-PJLV-ikqvkfk-css nextui-table-cell"
+                data-key="376100.2"
+                role="gridcell"
+                tabindex="-1"
+              >
+                <b
+                  class="nextui-c-PJLV nextui-c-PJLV-idOgsxa-css text"
+                >
+                  130.0 (MXN) 
+                </b>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <button
+        class="nextui-c-kZXRhs nextui-c-PJLV nextui-c-kZXRhs-ikltse-color-default nextui-c-kZXRhs-bWGFbV-size-md nextui-c-kZXRhs-cwXrJp-borderWeight-normal nextui-c-kZXRhs-fzQovo-shadow-true nextui-c-kZXRhs-jsIPTU-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-kZXRhs-ihihFAR-css nextui-button nextui-button--ready button"
+        data-state="ready"
+        type="button"
+      >
+        <span
+          class="nextui-button-text"
+        >
+          Enviar
+        </span>
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

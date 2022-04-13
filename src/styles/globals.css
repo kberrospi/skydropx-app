@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.popup-modal{
+  border-radius: 1.5rem!important;
+}

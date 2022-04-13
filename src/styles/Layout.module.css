@@ -1,0 +1,22 @@
+.container {
+  height: 100vh;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  margin-top: 1rem;
+  background-color:'#FFF';
+  padding:2rem;
+  border-radius:1.5rem;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+}
+
+@media (max-width: 768px){
+  .container{
+    height: auto;
+  }
+}

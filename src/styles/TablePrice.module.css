@@ -1,0 +1,48 @@
+.container {
+  padding: 0 2.5rem 0;
+}
+
+.container > .button{
+  margin-top: 1rem;
+}
+
+.title-table {
+  padding-bottom: 1rem;
+  padding-left: 0.5rem;
+}
+
+.table{
+  width: 600px;
+  margin-bottom: 1rem;
+}
+
+.cheaper{
+  background-color: #00D09D;
+  padding: 0.2rem 0.5rem;
+  color: #FFF;
+  border-radius: 1rem;
+  box-shadow: 0 4px 14px 0 #dafee8;
+}
+
+.button{
+  background-color: #5333EA;
+}
+
+
+@media( max-width: 768px ){
+  .table{
+    width: auto;
+  }
+
+  .container {
+    padding: 0;
+  }
+
+  .text{
+    font-size: 13px;
+  }
+
+  .cheaper{
+    font-size: 13px;
+  }
+}
