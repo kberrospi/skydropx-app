@@ -36,4 +36,5 @@ En ambos casos de modo dev y produccion el proyecto se ejecutará en el siguient
 - Para ejecur las pruebas puede ejecutar el comando yarn test.
 
 ## Deploy 
+Deploy realizado en vercel, pueden acceder con el siguiente enlace [Skydropx App](https://skydropx-app.vercel.app/)
 
